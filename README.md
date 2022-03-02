@@ -1,4 +1,4 @@
-# 😁 Get to know me a little bit
+# 😁 Get to know me a little bit / Me conheça um pouco mais
 
 ## English (en)
 
