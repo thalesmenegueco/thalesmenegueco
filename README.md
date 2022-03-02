@@ -10,7 +10,7 @@
 
 **See you 😉**
 
-## Português brasieiro (pt-BR)
+## Português brasileiro (pt-BR)
 
 - 👋 Oi, sou @thalesmenegueco
 - 👀 Me interesso por conhecer as tecnologias mais novas
