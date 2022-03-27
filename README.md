@@ -1,6 +1,6 @@
 # 😁 Me conheça um pouco / Get to know me a little bit 
 
-## Português brasileiro (pt-BR)
+## Português (pt-BR)
 
 - 👋 Oi, sou @thalesmenegueco
 - 👀 Me interesso por conhecer as tecnologias mais novas
