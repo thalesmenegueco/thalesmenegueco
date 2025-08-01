@@ -4,7 +4,7 @@
 
 - 👋 Oi, sou @thalesmenegueco
 - 👀 Me interesso por conhecer as tecnologias mais novas
-- 🌱 Atualmente estou me aprimorando em Angular e Git
+- 🌱 Atualmente estou praticando Angular e IA Generativa
 - 😃 Ansioso para participar em projetos
 - 📫 Você pode me contatar por meio do [meu email](mailto:thales.menegueco@gmail.com) - no assunto escrevendo "PERFIL GITHUB" - ou do [meu LinkedIn](https://www.linkedin.com/in/thales-menegueco/) 
 
@@ -14,7 +14,7 @@
 
 - 👋 Hi, I’m @thalesmenegueco
 - 👀 I’m interested in always getting to know the newest tech's
-- 🌱 Currently learning Angular and Git
+- 🌱 Currently practicing Angular and Generative AI 
 - 😃 Looking forward to collaborate on projects
 - 📫 You can reach me through [my email](mailto:thales.menegueco@gmail.com) - in subject write "PERFIL GITHUB" - or [my LinkedIn](https://www.linkedin.com/in/thales-menegueco/) 
 
