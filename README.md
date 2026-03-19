@@ -13,7 +13,7 @@
 ## English (en)
 
 - 👋 Hi, I’m @thalesmenegueco
-- 👀 I’m interested in always getting to know the newest tech's
+- 👀 I’m interested in always getting to know the newest technologies
 - 🌱 Currently practicing Angular and Generative AI 
 - 😃 Looking forward to collaborate on projects
 - 📫 You can reach me through [my email](mailto:thales.menegueco@gmail.com) - in subject write "PERFIL GITHUB" - or [my LinkedIn](https://www.linkedin.com/in/thales-menegueco/) 
